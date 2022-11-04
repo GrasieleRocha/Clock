@@ -11,7 +11,7 @@ JAVASCRIPT
 
 ## 🚀 App no ar
 
-App no ar: https://clocknew.netlify.app
+App no ar: https://clocknew.netlify.app <br>
 tutorial: https://www.youtube.com/watch?v=eoSfzVz9ur0&t=921s
 
 
