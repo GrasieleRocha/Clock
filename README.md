@@ -8,7 +8,7 @@ The purpose of this project is to establish my base in Html, CSS and JavaScript,
 ![WhatsApp Image 2022-11-16 at 15 34 20](https://user-images.githubusercontent.com/104076058/202265320-08dfcf89-db0e-453e-ad7f-35136f2703e1.jpeg)
 
 
-## Tecnologies used
+## Tecnologies used...
 ### languages
 - `HTML`
 - `CSS`
