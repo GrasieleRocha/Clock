@@ -19,7 +19,7 @@ The purpose of this project is to establish my base in Html, CSS and JavaScript,
 - `GitHub`
 - `Netlify`
 
-## Link to access the project
+## Link to access the project...
 App no ar: https://clocknew.netlify.app <br>
 
 ## Inspiration for the project
