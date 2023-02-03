@@ -14,7 +14,7 @@ The purpose of this project is to establish my base in Html, CSS and JavaScript,
 - `CSS`
 - `JavaScript`
 
-### Tools
+### Tools..
 - `VS Code`
 - `GitHub`
 - `Netlify`
