@@ -22,7 +22,7 @@ The purpose of this project is to establish my base in Html, CSS and JavaScript,
 ## Link to access the project
 App no ar: https://clocknew.netlify.app <br>
 
-## Inspiration for the project
+## Inspiration for the project..
 tutorial: https://www.youtube.com/watch?v=eoSfzVz9ur0&t=921s
 
 
