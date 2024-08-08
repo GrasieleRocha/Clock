@@ -31,8 +31,8 @@ body{
 
 #time .circle{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -40,8 +40,8 @@ body{
 
 #time .circle svg{
 position: relative;
-width: 100px;
-height: 100px;
+width: 150px;
+height: 150px;
 transform: rotate(270deg);
 }
 
